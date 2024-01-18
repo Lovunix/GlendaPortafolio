@@ -1,0 +1,39 @@
+
+
+/* Hero Banner */
+#photo_profile {
+    background-image: url(../../assets/images/portrait.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 700px;
+  }
+
+
+  #background_scene {
+    background-image: url(../../assets/images/background.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+
+  #background_scene h4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+  }
+
+
+  #cool_stuff {
+    background-image: url(../../assets/images/coolstuff.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+  }
+
+  #cool_stuff h2 {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    height: 100%;
+    font-size:medium;
+  }
